@@ -1,5 +1,5 @@
 {
-   "name": "@scrypted/sample-cameraprovider",
+   "name": "@scrypted/nanit",
    "scripts": {
       "scrypted-setup-project": "scrypted-setup-project",
       "prescrypted-setup-project": "scrypted-package-json",
